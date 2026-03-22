@@ -1,0 +1,741 @@
+ID,Absenteeism time in hours,HI1_WorkSatisfaction,HI2_LikesManager,HI3_EnjoysColleagues,HI4_WantstoStay,Work Happiness,Likes Manager,Likes Colleagues,Retention Outlook
+4,0,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+8,0,3,2,2,5,Meh,Dislike,Dislike,Very Likely
+35,0,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+27,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+27,2,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+28,1,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+28,2,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+28,2,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+28,1,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+28,2,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+28,1,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+28,5,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+32,8,2,4,3,2,Unhappy,Like,Meh,Unlikely
+34,1,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+34,1,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+34,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+34,2,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+34,2,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+34,2,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+34,2,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+34,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+34,2,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+34,2,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+34,2,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+34,0,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+34,32,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+36,4,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+3,2,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+6,8,3,3,3,4,Meh,Meh,Meh,Likely
+6,8,3,2,3,3,Meh,Dislike,Meh,Meh
+6,8,3,4,2,5,Meh,Like,Dislike,Very Likely
+11,8,4,4,3,3,Happy,Like,Meh,Meh
+11,3,4,5,3,5,Happy,Like Very Much,Meh,Very Likely
+12,2,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+12,3,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+14,2,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+14,5,2,4,5,4,Unhappy,Like,Like Very Much,Likely
+15,2,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+17,2,3,5,3,3,Meh,Like Very Much,Meh,Meh
+18,8,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+18,1,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+20,2,4,2,3,4,Happy,Dislike,Meh,Likely
+20,3,4,2,4,4,Happy,Dislike,Like,Likely
+22,1,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+22,2,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+22,2,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+22,2,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+24,8,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+24,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+24,2,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+24,24,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+25,3,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+25,2,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+27,1,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+27,8,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+28,2,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+28,2,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+28,3,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+28,1,2,4,3,2,Unhappy,Like,Meh,Unlikely
+28,1,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+28,3,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+28,3,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+28,8,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+28,3,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+28,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+28,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+29,2,4,5,2,4,Happy,Like Very Much,Dislike,Likely
+30,16,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+31,8,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+31,8,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+33,8,3,3,5,2,Meh,Meh,Like Very Much,Unlikely
+33,2,4,4,4,4,Happy,Like,Like,Likely
+34,2,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+13,8,4,1,3,4,Happy,Dislike Very Much,Meh,Likely
+14,8,4,1,5,3,Happy,Dislike Very Much,Like Very Much,Meh
+14,24,1,1,3,3,Very Unhappy,Dislike Very Much,Meh,Meh
+16,8,3,2,1,4,Meh,Dislike,Dislike Very Much,Likely
+17,8,4,2,3,5,Happy,Dislike,Meh,Very Likely
+17,8,4,5,2,5,Happy,Like Very Much,Dislike,Very Likely
+20,16,4,2,3,5,Happy,Dislike,Meh,Very Likely
+20,4,5,1,4,4,Very Happy,Dislike Very Much,Like,Likely
+20,4,4,1,4,4,Happy,Dislike Very Much,Like,Likely
+20,8,4,1,4,5,Happy,Dislike Very Much,Like,Very Likely
+22,1,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+22,3,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+22,2,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+22,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+22,2,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+23,8,1,1,5,4,Very Unhappy,Dislike Very Much,Like Very Much,Likely
+24,16,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+24,2,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+24,0,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+24,2,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+25,3,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+28,1,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+28,2,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+28,8,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+28,8,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+28,16,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+28,2,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+28,1,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+28,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+28,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+28,8,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+33,3,4,4,4,4,Happy,Like,Like,Likely
+33,2,3,3,4,3,Meh,Meh,Like,Meh
+33,3,3,2,2,3,Meh,Dislike,Dislike,Meh
+33,2,1,2,1,4,Very Unhappy,Dislike,Dislike Very Much,Likely
+33,3,3,5,2,1,Meh,Like Very Much,Dislike,Very Unlikely
+1,3,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+1,8,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+2,0,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+3,24,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+3,4,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+3,8,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+3,4,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+6,8,1,4,4,4,Very Unhappy,Like,Like,Likely
+10,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+10,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+11,8,2,2,5,2,Unhappy,Dislike,Like Very Much,Unlikely
+11,16,4,2,5,2,Happy,Dislike,Like Very Much,Unlikely
+13,4,5,1,4,5,Very Happy,Dislike Very Much,Like,Very Likely
+13,24,4,2,3,4,Happy,Dislike,Meh,Likely
+14,1,3,2,4,4,Meh,Dislike,Like,Likely
+14,1,4,5,4,1,Happy,Like Very Much,Like,Very Unlikely
+14,24,4,4,4,3,Happy,Like,Like,Meh
+14,4,4,2,4,3,Happy,Dislike,Like,Meh
+15,1,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+15,3,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+15,1,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+17,2,2,2,3,2,Unhappy,Dislike,Meh,Unlikely
+18,4,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+18,8,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+20,4,5,2,3,4,Very Happy,Dislike,Meh,Likely
+20,56,4,2,4,4,Happy,Dislike,Like,Likely
+20,3,5,1,4,5,Very Happy,Dislike Very Much,Like,Very Likely
+20,4,4,1,3,5,Happy,Dislike Very Much,Meh,Very Likely
+22,2,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+22,2,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+22,2,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+22,2,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+23,8,3,4,4,5,Meh,Like,Like,Very Likely
+24,24,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+24,8,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+25,3,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+26,8,1,4,2,3,Very Unhappy,Like,Dislike,Meh
+28,1,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+28,2,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+28,8,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+28,8,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+28,8,2,4,3,2,Unhappy,Like,Meh,Unlikely
+33,8,2,2,3,5,Unhappy,Dislike,Meh,Very Likely
+33,4,2,2,2,5,Unhappy,Dislike,Dislike,Very Likely
+33,8,4,5,3,4,Happy,Like Very Much,Meh,Likely
+17,8,3,3,4,2,Meh,Meh,Like,Unlikely
+17,8,1,2,5,5,Very Unhappy,Dislike,Like Very Much,Very Likely
+18,8,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+18,8,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+20,3,5,1,3,4,Very Happy,Dislike Very Much,Meh,Likely
+22,3,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+22,2,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+22,3,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+22,1,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+22,2,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+22,2,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+22,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+23,0,2,5,3,3,Unhappy,Like Very Much,Meh,Meh
+25,2,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+25,8,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+25,2,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+26,64,1,4,1,4,Very Unhappy,Like,Dislike Very Much,Likely
+27,4,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+28,8,2,4,3,2,Unhappy,Like,Meh,Unlikely
+28,3,2,4,3,2,Unhappy,Like,Meh,Unlikely
+28,3,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+28,1,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+29,3,3,4,4,4,Meh,Like,Like,Likely
+29,8,3,2,5,1,Meh,Dislike,Like Very Much,Very Unlikely
+29,8,2,1,2,4,Unhappy,Dislike Very Much,Dislike,Likely
+33,2,3,3,1,2,Meh,Meh,Dislike Very Much,Unlikely
+34,1,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+34,3,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+34,1,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+36,2,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+36,3,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+36,0,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+1,16,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+1,8,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+2,0,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+3,1,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+3,8,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+3,2,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+3,3,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+3,0,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+3,24,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+3,4,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+3,2,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+3,8,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+5,8,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+10,8,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+10,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+12,8,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+12,8,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+12,3,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+14,4,4,2,2,3,Happy,Dislike,Dislike,Meh
+15,4,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+15,40,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+15,2,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+16,8,3,4,1,3,Meh,Like,Dislike Very Much,Meh
+18,0,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+18,1,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+20,4,5,2,4,5,Very Happy,Dislike,Like,Very Likely
+21,0,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+22,2,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+22,3,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+22,2,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+22,2,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+22,3,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+23,0,2,4,5,2,Unhappy,Like,Like Very Much,Unlikely
+23,8,4,2,4,2,Happy,Dislike,Like,Unlikely
+23,8,4,2,2,4,Happy,Dislike,Dislike,Likely
+24,8,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+24,24,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+24,8,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+24,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+24,3,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+24,2,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+28,2,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+28,4,2,4,3,2,Unhappy,Like,Meh,Unlikely
+28,2,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+31,0,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+32,2,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+34,3,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+34,2,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+34,8,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+34,8,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+34,3,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+34,2,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+34,3,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+36,24,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+36,8,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+36,1,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+36,80,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+36,2,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+36,24,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+36,3,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+3,8,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+3,3,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+3,3,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+3,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+3,3,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+3,8,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+3,3,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+3,3,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+3,3,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+3,3,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+3,3,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+3,3,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+3,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+3,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+3,2,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+3,2,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+3,2,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+3,3,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+3,3,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+3,3,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+3,2,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+3,8,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+3,2,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+3,2,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+3,2,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+3,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+1,8,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+1,8,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+1,0,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+3,24,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+3,3,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+3,2,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+3,16,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+3,8,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+3,2,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+3,2,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+3,3,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+3,8,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+3,2,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+3,3,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+3,4,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+3,3,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+3,2,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+3,2,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+3,3,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+3,3,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+3,3,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+3,3,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+3,3,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+7,8,2,3,1,3,Unhappy,Meh,Dislike Very Much,Meh
+7,16,2,4,3,3,Unhappy,Like,Meh,Meh
+9,3,4,4,5,2,Happy,Like,Like Very Much,Unlikely
+9,112,3,4,5,3,Meh,Like,Like Very Much,Meh
+9,2,3,1,4,4,Meh,Dislike Very Much,Like,Likely
+10,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+10,8,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+11,8,4,2,3,3,Happy,Dislike,Meh,Meh
+11,8,5,5,3,5,Very Happy,Like Very Much,Meh,Very Likely
+11,8,3,5,3,5,Meh,Like Very Much,Meh,Very Likely
+11,104,1,5,4,2,Very Unhappy,Like Very Much,Like,Unlikely
+13,0,4,1,4,4,Happy,Dislike Very Much,Like,Likely
+36,3,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+36,8,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+36,0,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+1,8,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+1,4,2,4,3,2,Unhappy,Like,Meh,Unlikely
+1,4,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+2,1,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+3,2,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+3,2,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+3,1,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+3,4,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+3,2,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+3,8,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+3,8,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+3,1,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+3,1,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+5,8,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+5,4,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+6,8,3,3,4,2,Meh,Meh,Like,Unlikely
+6,16,4,3,2,3,Happy,Meh,Dislike,Meh
+7,4,5,3,2,4,Very Happy,Meh,Dislike,Likely
+7,2,2,2,3,4,Unhappy,Dislike,Meh,Likely
+9,8,1,2,4,2,Very Unhappy,Dislike,Like,Unlikely
+9,120,2,5,4,1,Unhappy,Like Very Much,Like,Very Unlikely
+10,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+10,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+10,8,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+10,8,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+11,4,4,1,4,1,Happy,Dislike Very Much,Like,Very Unlikely
+11,2,3,4,2,1,Meh,Like,Dislike,Very Unlikely
+11,8,2,4,4,2,Unhappy,Like,Like,Unlikely
+11,32,4,3,4,3,Happy,Meh,Like,Meh
+11,8,4,4,1,4,Happy,Like,Dislike Very Much,Likely
+11,8,2,1,4,1,Unhappy,Dislike Very Much,Like,Very Unlikely
+11,8,4,4,4,5,Happy,Like,Like,Very Likely
+11,8,1,2,2,3,Very Unhappy,Dislike,Dislike,Meh
+11,8,5,3,4,4,Very Happy,Meh,Like,Likely
+11,8,4,3,4,5,Happy,Meh,Like,Very Likely
+12,2,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+13,8,4,2,3,5,Happy,Dislike,Meh,Very Likely
+13,80,4,2,3,4,Happy,Dislike,Meh,Likely
+14,40,1,3,5,5,Very Unhappy,Meh,Like Very Much,Very Likely
+14,16,3,3,2,2,Meh,Meh,Dislike,Unlikely
+14,2,2,4,1,3,Unhappy,Like,Dislike Very Much,Meh
+15,1,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+18,8,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+18,8,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+18,8,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+18,8,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+20,4,4,2,3,4,Happy,Dislike,Meh,Likely
+20,8,4,2,4,5,Happy,Dislike,Like,Very Likely
+20,8,4,2,4,5,Happy,Dislike,Like,Very Likely
+20,8,4,1,3,4,Happy,Dislike Very Much,Meh,Likely
+20,0,5,1,3,5,Very Happy,Dislike Very Much,Meh,Very Likely
+20,8,5,2,3,5,Very Happy,Dislike,Meh,Very Likely
+20,4,5,2,3,4,Very Happy,Dislike,Meh,Likely
+21,8,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+22,8,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+22,8,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+22,2,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+24,8,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+24,2,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+24,2,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+26,8,4,1,2,1,Happy,Dislike Very Much,Dislike,Very Unlikely
+28,4,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+28,112,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+28,8,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+30,3,2,4,3,2,Unhappy,Like,Meh,Unlikely
+33,0,4,4,4,1,Happy,Like,Like,Very Unlikely
+34,8,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+34,4,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+34,3,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+34,8,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+34,8,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+34,4,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+34,2,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+36,0,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+36,8,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+36,0,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+36,1,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+34,8,2,4,3,2,Unhappy,Like,Meh,Unlikely
+36,2,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+34,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+34,8,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+34,2,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+36,1,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+36,1,2,4,3,2,Unhappy,Like,Meh,Unlikely
+36,120,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+36,3,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+36,2,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+1,8,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+1,8,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+3,8,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+3,1,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+3,4,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+5,16,2,4,3,2,Unhappy,Like,Meh,Unlikely
+5,8,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+7,0,3,1,4,4,Meh,Dislike Very Much,Like,Likely
+9,8,3,4,3,3,Meh,Like,Meh,Meh
+10,1,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+10,8,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+11,8,3,2,2,2,Meh,Dislike,Dislike,Unlikely
+11,24,1,3,3,4,Very Unhappy,Meh,Meh,Likely
+13,8,4,2,3,4,Happy,Dislike,Meh,Likely
+14,2,3,3,4,3,Meh,Meh,Like,Meh
+14,1,3,4,2,3,Meh,Like,Dislike,Meh
+14,2,3,5,3,4,Meh,Like Very Much,Meh,Likely
+14,48,4,1,2,1,Happy,Dislike Very Much,Dislike,Very Unlikely
+14,2,2,2,4,5,Unhappy,Dislike,Like,Very Likely
+14,8,4,2,4,4,Happy,Dislike,Like,Likely
+15,2,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+15,8,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+15,2,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+17,2,3,5,2,3,Meh,Like Very Much,Dislike,Meh
+17,3,4,3,1,3,Happy,Meh,Dislike Very Much,Meh
+17,1,1,3,4,3,Very Unhappy,Meh,Like,Meh
+1,4,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+1,1,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+1,8,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+1,4,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+2,8,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+2,8,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+2,8,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+3,1,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+3,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+3,8,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+3,2,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+3,4,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+3,3,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+3,4,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+3,4,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+5,8,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+5,8,2,4,3,2,Unhappy,Like,Meh,Unlikely
+9,8,4,2,5,4,Happy,Dislike,Like Very Much,Likely
+10,40,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+10,7,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+10,1,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+10,8,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+11,8,4,2,2,2,Happy,Dislike,Dislike,Unlikely
+11,1,1,4,1,3,Very Unhappy,Like,Dislike Very Much,Meh
+11,8,3,4,5,2,Meh,Like,Like Very Much,Unlikely
+11,8,2,4,4,3,Unhappy,Like,Like,Meh
+11,8,3,3,4,3,Meh,Meh,Like,Meh
+11,1,1,2,4,1,Very Unhappy,Dislike,Like,Very Unlikely
+11,4,2,3,1,3,Unhappy,Meh,Dislike Very Much,Meh
+11,8,5,2,4,2,Very Happy,Dislike,Like,Unlikely
+14,2,2,1,2,2,Unhappy,Dislike Very Much,Dislike,Unlikely
+15,4,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+15,4,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+15,2,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+17,1,5,4,3,2,Very Happy,Like,Meh,Unlikely
+17,8,4,1,3,3,Happy,Dislike Very Much,Meh,Meh
+18,8,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+18,16,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+19,4,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+20,4,4,1,4,5,Happy,Dislike Very Much,Like,Very Likely
+20,4,4,2,4,5,Happy,Dislike,Like,Very Likely
+20,4,5,1,4,5,Very Happy,Dislike Very Much,Like,Very Likely
+20,3,5,1,3,4,Very Happy,Dislike Very Much,Meh,Likely
+21,8,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+22,1,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+24,4,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+24,1,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+26,1,3,3,4,3,Meh,Meh,Like,Meh
+26,2,1,1,2,3,Very Unhappy,Dislike Very Much,Dislike,Meh
+27,2,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+27,8,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+30,4,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+30,3,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+33,2,1,5,4,3,Very Unhappy,Like Very Much,Like,Meh
+33,1,1,2,4,3,Very Unhappy,Dislike,Like,Meh
+33,2,4,4,1,3,Happy,Like,Dislike Very Much,Meh
+34,4,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+34,3,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+34,4,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+34,5,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+36,3,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+36,1,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+3,3,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+3,3,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+3,8,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+3,3,2,4,3,2,Unhappy,Like,Meh,Unlikely
+3,8,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+3,1,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+3,8,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+3,4,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+5,0,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+5,8,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+5,0,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+8,0,4,5,4,2,Happy,Like Very Much,Like,Unlikely
+10,8,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+11,0,1,2,4,3,Very Unhappy,Dislike,Like,Meh
+11,24,5,2,2,4,Very Happy,Dislike,Dislike,Likely
+13,0,5,2,3,5,Very Happy,Dislike,Meh,Very Likely
+13,8,4,2,4,4,Happy,Dislike,Like,Likely
+14,2,4,4,4,2,Happy,Like,Like,Unlikely
+15,32,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+15,3,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+15,4,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+15,3,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+15,40,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+15,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+19,0,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+20,8,4,2,4,5,Happy,Dislike,Like,Very Likely
+20,0,5,2,3,5,Very Happy,Dislike,Meh,Very Likely
+20,4,4,1,3,5,Happy,Dislike Very Much,Meh,Very Likely
+20,4,5,1,3,5,Very Happy,Dislike Very Much,Meh,Very Likely
+22,8,2,4,3,2,Unhappy,Like,Meh,Unlikely
+22,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+24,16,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+24,32,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+24,1,2,4,3,2,Unhappy,Like,Meh,Unlikely
+24,1,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+28,2,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+28,3,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+28,1,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+29,0,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+33,1,4,1,1,1,Happy,Dislike Very Much,Dislike Very Much,Very Unlikely
+33,1,3,3,3,3,Meh,Meh,Meh,Meh
+34,2,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+34,3,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+36,0,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+36,1,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+3,3,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+3,3,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+3,8,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+3,3,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+5,0,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+5,0,2,4,3,2,Unhappy,Like,Meh,Unlikely
+5,2,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+5,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+6,8,4,2,4,2,Happy,Dislike,Like,Unlikely
+9,1,2,4,5,3,Unhappy,Like,Like Very Much,Meh
+10,1,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+10,8,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+11,8,2,4,5,5,Unhappy,Like,Like Very Much,Very Likely
+11,16,2,5,3,4,Unhappy,Like Very Much,Meh,Likely
+13,8,4,1,4,4,Happy,Dislike Very Much,Like,Likely
+13,3,4,2,3,4,Happy,Dislike,Meh,Likely
+13,8,5,1,3,5,Very Happy,Dislike Very Much,Meh,Very Likely
+13,8,4,2,3,5,Happy,Dislike,Meh,Very Likely
+13,8,4,1,4,5,Happy,Dislike Very Much,Like,Very Likely
+15,5,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+15,8,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+15,4,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+15,0,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+15,2,2,4,3,1,Unhappy,Like,Meh,Very Unlikely
+15,1,2,4,3,2,Unhappy,Like,Meh,Unlikely
+15,1,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+20,16,5,2,3,4,Very Happy,Dislike,Meh,Likely
+20,3,4,2,3,5,Happy,Dislike,Meh,Very Likely
+20,3,4,1,3,5,Happy,Dislike Very Much,Meh,Very Likely
+20,0,5,1,4,5,Very Happy,Dislike Very Much,Like,Very Likely
+22,1,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+22,64,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+22,16,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+22,5,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+22,5,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+24,8,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+25,3,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+25,8,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+28,3,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+28,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+28,3,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+28,2,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+28,2,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+28,4,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+28,1,2,4,3,2,Unhappy,Like,Meh,Unlikely
+28,3,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+28,0,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+28,3,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+30,0,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+32,1,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+32,3,1,3,2,2,Very Unhappy,Meh,Dislike,Unlikely
+32,2,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+33,2,1,4,4,4,Very Unhappy,Like,Like,Likely
+33,8,2,3,2,3,Unhappy,Meh,Dislike,Meh
+34,3,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+34,3,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+34,2,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+36,0,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+36,1,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+36,1,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+36,1,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+1,1,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+1,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+3,1,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+3,8,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+3,8,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+3,3,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+3,1,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+3,1,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+3,1,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+3,1,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+3,1,2,4,3,2,Unhappy,Like,Meh,Unlikely
+5,8,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+5,0,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+6,8,3,5,1,4,Meh,Like Very Much,Dislike Very Much,Likely
+7,0,4,4,3,2,Happy,Like,Meh,Unlikely
+10,8,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+10,2,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+11,8,2,1,5,4,Unhappy,Dislike Very Much,Like Very Much,Likely
+11,0,4,1,3,3,Happy,Dislike Very Much,Meh,Meh
+13,8,4,1,4,5,Happy,Dislike Very Much,Like,Very Likely
+14,32,5,3,2,5,Very Happy,Meh,Dislike,Very Likely
+14,120,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+15,5,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+15,40,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+15,1,1,5,3,2,Very Unhappy,Like Very Much,Meh,Unlikely
+15,4,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+15,2,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+15,0,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+17,8,5,2,1,4,Very Happy,Dislike,Dislike Very Much,Likely
+18,0,2,4,3,2,Unhappy,Like,Meh,Unlikely
+18,24,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+20,3,5,1,3,5,Very Happy,Dislike Very Much,Meh,Very Likely
+20,8,4,2,4,5,Happy,Dislike,Like,Very Likely
+20,8,5,1,4,5,Very Happy,Dislike Very Much,Like,Very Likely
+23,8,1,3,5,1,Very Unhappy,Meh,Like Very Much,Very Unlikely
+23,0,2,3,2,3,Unhappy,Meh,Dislike,Meh
+24,8,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+24,8,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+25,8,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+28,1,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+28,4,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+28,3,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+28,2,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+28,2,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+33,2,4,4,2,3,Happy,Like,Dislike,Meh
+33,4,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+34,8,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+34,3,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+34,3,2,4,3,2,Unhappy,Like,Meh,Unlikely
+34,8,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+34,2,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+34,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+34,8,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+1,1,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+3,1,1,3,3,1,Very Unhappy,Meh,Meh,Very Unlikely
+3,1,1,4,2,1,Very Unhappy,Like,Dislike,Very Unlikely
+3,3,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+3,3,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+3,2,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+5,8,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+11,8,2,4,3,2,Unhappy,Like,Meh,Unlikely
+11,3,2,1,3,2,Unhappy,Dislike Very Much,Meh,Unlikely
+11,8,3,5,4,4,Meh,Like Very Much,Like,Likely
+11,8,4,5,5,4,Happy,Like Very Much,Like Very Much,Likely
+14,8,5,3,4,3,Very Happy,Meh,Like,Meh
+14,2,2,3,2,4,Unhappy,Meh,Dislike,Likely
+14,4,1,4,4,3,Very Unhappy,Like,Like,Meh
+14,8,2,1,4,3,Unhappy,Dislike Very Much,Like,Meh
+15,8,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+17,2,1,3,3,3,Very Unhappy,Meh,Meh,Meh
+17,2,5,4,3,5,Very Happy,Like,Meh,Very Likely
+17,2,4,1,2,3,Happy,Dislike Very Much,Dislike,Meh
+17,3,4,2,4,1,Happy,Dislike,Like,Very Unlikely
+22,8,2,3,2,1,Unhappy,Meh,Dislike,Very Unlikely
+22,24,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+22,16,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+22,3,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+22,2,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+22,2,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+1,8,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+1,3,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+1,2,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+1,4,2,4,3,2,Unhappy,Like,Meh,Unlikely
+3,2,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+3,1,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+3,1,1,5,3,1,Very Unhappy,Like Very Much,Meh,Very Unlikely
+3,1,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+3,1,2,4,3,2,Unhappy,Like,Meh,Unlikely
+3,3,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+3,32,2,4,3,2,Unhappy,Like,Meh,Unlikely
+5,8,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+5,8,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+10,8,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+10,8,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+10,4,2,4,3,2,Unhappy,Like,Meh,Unlikely
+11,24,1,3,4,5,Very Unhappy,Meh,Like,Very Likely
+11,8,2,4,5,4,Unhappy,Like,Like Very Much,Likely
+12,8,2,3,2,2,Unhappy,Meh,Dislike,Unlikely
+14,8,2,2,2,4,Unhappy,Dislike,Dislike,Likely
+14,16,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+14,80,3,2,4,2,Meh,Dislike,Like,Unlikely
+15,3,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+15,8,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+15,1,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+17,8,4,4,2,2,Happy,Like,Dislike,Unlikely
+17,8,3,2,4,2,Meh,Dislike,Like,Unlikely
+17,40,4,2,3,2,Happy,Dislike,Meh,Unlikely
+17,2,1,3,2,1,Very Unhappy,Meh,Dislike,Very Unlikely
+19,2,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+20,4,5,2,4,4,Very Happy,Dislike,Like,Likely
+20,8,5,1,4,4,Very Happy,Dislike Very Much,Like,Likely
+20,3,4,2,3,4,Happy,Dislike,Meh,Likely
+20,8,5,1,3,5,Very Happy,Dislike Very Much,Meh,Very Likely
+20,8,4,1,4,4,Happy,Dislike Very Much,Like,Likely
+20,40,5,2,3,5,Very Happy,Dislike,Meh,Very Likely
+20,4,4,1,3,5,Happy,Dislike Very Much,Meh,Very Likely
+20,8,5,1,4,5,Very Happy,Dislike Very Much,Like,Very Likely
+22,8,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+22,1,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+22,1,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+22,16,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
+24,8,2,4,3,2,Unhappy,Like,Meh,Unlikely
+24,8,2,4,2,2,Unhappy,Like,Dislike,Unlikely
+28,1,2,5,2,2,Unhappy,Like Very Much,Dislike,Unlikely
+28,3,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+28,3,2,5,3,1,Unhappy,Like Very Much,Meh,Very Unlikely
+28,3,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+28,2,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+28,3,1,4,3,1,Very Unhappy,Like,Meh,Very Unlikely
+28,2,2,3,3,2,Unhappy,Meh,Meh,Unlikely
+28,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+28,3,1,5,2,1,Very Unhappy,Like Very Much,Dislike,Very Unlikely
+28,3,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+28,3,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+28,3,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+28,2,2,4,2,1,Unhappy,Like,Dislike,Very Unlikely
+28,3,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+28,2,2,4,3,2,Unhappy,Like,Meh,Unlikely
+30,3,1,5,2,2,Very Unhappy,Like Very Much,Dislike,Unlikely
+30,2,2,5,3,2,Unhappy,Like Very Much,Meh,Unlikely
+33,1,1,4,3,4,Very Unhappy,Like,Meh,Likely
+33,1,4,2,4,2,Happy,Dislike,Like,Unlikely
+33,3,4,4,2,1,Happy,Like,Dislike,Very Unlikely
+34,64,2,4,3,2,Unhappy,Like,Meh,Unlikely
+34,56,2,3,3,1,Unhappy,Meh,Meh,Very Unlikely
+34,2,1,3,3,2,Very Unhappy,Meh,Meh,Unlikely
+34,8,1,4,3,2,Very Unhappy,Like,Meh,Unlikely
+36,2,1,4,2,2,Very Unhappy,Like,Dislike,Unlikely
+36,1,2,5,2,1,Unhappy,Like Very Much,Dislike,Very Unlikely
