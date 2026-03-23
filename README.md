@@ -2,6 +2,8 @@
 
 A multi-dataset workforce analysis completed as part of a technical interview assessment. The project involved cleaning and merging raw data, performing statistical analysis, parsing a complex Excel structure, and presenting findings through Tableau dashboards and a Prezi presentation.
 
+Prezi presentation: https://prezi.com/view/22UxRRlGPnmYlEYpWKvC/
+
 ---
 
 ## 📁 Project Structure
